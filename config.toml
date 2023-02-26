@@ -1,4 +1,4 @@
 baseURL = 'https://frankdudek.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Frank Dudek'
 theme='etch'
