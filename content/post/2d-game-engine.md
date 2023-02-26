@@ -1,7 +1,7 @@
 ---
 title: "2d Game Engine"
 date: 2023-02-26T11:44:51+07:00
-draft: true
+draft: false
 ---
 
 ## Introduction
