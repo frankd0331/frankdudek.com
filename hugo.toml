@@ -21,8 +21,7 @@ hideHeader = false
 # Intro on main page, content is markdown
 homeIntroTitle = 'Hi!'
 homeIntroContent = """
-I am an Italian Software Engineer with a strong foundation in computer science and a passion for solving complex problems.
-I am interested in a range of topics, including algorithms, distributed systems, databases, and information retrieval.
+I'm Frank a registered nurse currently exploring the field of Data Science. I'm passionate about learning and sharing my knowledge with others. This blog is a collection of my thoughts and experiences in the field of Data Science and beyond.
 """
 
 # Collection to display on home
@@ -40,15 +39,11 @@ breadcrumbs = true
 # Social icons
 [[params.social]]
 name = "linkedin"
-url = "https://www.linkedin.com/in/user/"
-
-[[params.social]]
-name = "medium"
-url = "https://medium.com/@user"
+url = "https://www.linkedin.com/in/frank-dudek-688960314/"
 
 [[params.social]]
 name = "github"
-url = "https://github.com/user"
+url = "https://github.com/frankd0331"
 
 # Main menu pages
 [[params.menu]]
