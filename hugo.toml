@@ -1,7 +1,7 @@
 baseURL = 'https://frankdudek.com/'
 languageCode = 'en-us'
 title = 'Frank Dudek'
-theme = 'typo'
+theme = 'PaperMod'
 
 [taxonomies]
 tag = 'tags'
