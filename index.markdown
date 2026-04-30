@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+This is the homepage, going back to Jekyll after trying Obsidian/Quartz
